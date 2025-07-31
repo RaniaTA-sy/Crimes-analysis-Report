@@ -7,12 +7,14 @@
 - [Data Cleaning Preparation](#data-cleaning-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Results-Finding](#result-finding)
+- [Results-Finding](#results-finding)
 - [Recommendations](#recommendations)
 ## Project Overview
  This project aims to create a clear crime analysis dashboard that highlights crime patterns over time, by location, and by age group.
  It will help us understand when and where crimes are most common, identify the most dangerous times and groups, and provide insights to support better safety measures.
  Ultimately, it’s about turning data into actionable information to improve community safety.
+ 
+ ![Download](https://github.com/RaniaTA-sy/Crimes-analysis-Report/blob/main/CrimeAnalysisReport.pdf)
  
 
 ### Data Sources
